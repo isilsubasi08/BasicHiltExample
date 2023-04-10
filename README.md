@@ -153,6 +153,10 @@ Son hali :
         }
     }
 
+
+Bir sonraki anlatımda MVVM mimarisi ve Retrofit kütüphanesi kullandığımız uygulamada Hilt entegre edeceğiz.Diğer kullanmadığımız tanımlarıda diğer projede göreceğiz.
+
+
  
 
 
