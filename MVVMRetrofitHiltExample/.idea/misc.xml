@@ -3,8 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/LEAD/Hilt/BasicHiltExample/BasicHiltExample/MVVMRetrofitHiltExample/app/src/main/res/drawable/bg_details.xml" value="0.175" />
+        <entry key="..\:/LEAD/Hilt/BasicHiltExample/BasicHiltExample/MVVMRetrofitHiltExample/app/src/main/res/drawable/bg_main.xml" value="0.175" />
+        <entry key="..\:/LEAD/Hilt/BasicHiltExample/BasicHiltExample/MVVMRetrofitHiltExample/app/src/main/res/drawable/ic_round_date_range_24.xml" value="0.175" />
+        <entry key="..\:/LEAD/Hilt/BasicHiltExample/BasicHiltExample/MVVMRetrofitHiltExample/app/src/main/res/drawable/ic_round_language_24.xml" value="0.175" />
+        <entry key="..\:/LEAD/Hilt/BasicHiltExample/BasicHiltExample/MVVMRetrofitHiltExample/app/src/main/res/drawable/ic_round_star_24.xml" value="0.175" />
+        <entry key="..\:/LEAD/Hilt/BasicHiltExample/BasicHiltExample/MVVMRetrofitHiltExample/app/src/main/res/layout/activity_main.xml" value="0.19114583333333332" />
         <entry key="..\:/LEAD/Hilt/BasicHiltExample/BasicHiltExample/MVVMRetrofitHiltExample/app/src/main/res/layout/fragment_movies.xml" value="0.20380434782608695" />
         <entry key="..\:/LEAD/Hilt/BasicHiltExample/BasicHiltExample/MVVMRetrofitHiltExample/app/src/main/res/layout/fragment_movies_details.xml" value="0.20380434782608695" />
+        <entry key="..\:/LEAD/Hilt/BasicHiltExample/BasicHiltExample/MVVMRetrofitHiltExample/app/src/main/res/layout/item_movies.xml" value="0.1" />
       </map>
     </option>
   </component>

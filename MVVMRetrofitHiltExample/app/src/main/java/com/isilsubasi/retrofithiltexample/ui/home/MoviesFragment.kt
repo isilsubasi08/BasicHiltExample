@@ -1,4 +1,4 @@
-package com.isilsubasi.retrofithiltexample.ui
+package com.isilsubasi.retrofithiltexample.ui.home
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -7,15 +7,14 @@ import android.view.View
 import android.view.ViewGroup
 import com.isilsubasi.retrofithiltexample.R
 
-
-class MoviesDetailsFragment : Fragment() {
+class MoviesFragment : Fragment() {
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_movies_details, container, false)
+        return inflater.inflate(R.layout.fragment_movies, container, false)
     }
 
 }

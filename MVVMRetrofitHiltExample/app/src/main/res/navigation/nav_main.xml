@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/moviesFragment"
-        android:name="com.isilsubasi.retrofithiltexample.ui.MoviesFragment"
+        android:name="com.isilsubasi.retrofithiltexample.ui.home.MoviesFragment"
         android:label="fragment_movies"
         tools:layout="@layout/fragment_movies" >
         <action
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/moviesDetailsFragment"
-        android:name="com.isilsubasi.retrofithiltexample.ui.MoviesDetailsFragment"
+        android:name="com.isilsubasi.retrofithiltexample.ui.details.MoviesDetailsFragment"
         android:label="fragment_movies_details"
         tools:layout="@layout/fragment_movies_details" >
         <argument
