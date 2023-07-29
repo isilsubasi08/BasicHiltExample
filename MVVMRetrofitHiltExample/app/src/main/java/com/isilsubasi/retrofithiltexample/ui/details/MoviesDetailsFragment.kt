@@ -6,8 +6,9 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.isilsubasi.retrofithiltexample.R
+import dagger.hilt.android.AndroidEntryPoint
 
-
+@AndroidEntryPoint
 class MoviesDetailsFragment : Fragment() {
 
     override fun onCreateView(
