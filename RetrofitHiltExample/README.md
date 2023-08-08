@@ -1,4 +1,4 @@
-# MVVM-RETROFİT-HİLT ÖĞRENELİMM🎉
+# RETROFİT-HİLT ÖĞRENELİMM🎉
 
 
 
