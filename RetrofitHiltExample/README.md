@@ -18,7 +18,7 @@ Hilte constructor inject yapamayacağımız türleri nasıl sağlayacağını s�
 <b>@Provides</b> açıklamalı fonksiyonun dönüş türü, Hilt'e bağlama türünü, işlevin örneklerini sağladığı türü söyler. İşlev parametreleri, o türün bağımlılıklarıdır.
 
 ## TMDB Api Kullanarak Oluşturduğum Proje
-
+![movielist](https://github.com/isilsubasi08/BasicHiltExample/blob/main/gif/MoviesList.gif)
 
 
 
