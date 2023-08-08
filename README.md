@@ -155,7 +155,7 @@ Son hali :
 
 
 Bir sonraki anlatımda MVVM mimarisi ve Retrofit kütüphanesi kullandığımız uygulamada Hilt entegre edeceğiz.Diğer kullanmadığımız tanımlarıda diğer projede göreceğiz.
-### Daha detaylı öğrenmek için yazdığım yazı ve oluşturduğum projeye burdan ulaşabilirsiniz. [Tık 🎈](https://github.com/isilsubasi08/BasicHiltExample/tree/main/MVVMRetrofitHiltExample) 
+### Daha detaylı öğrenmek için yazdığım yazı ve oluşturduğum projeye burdan ulaşabilirsiniz. [Tık 🎈](https://github.com/isilsubasi08/BasicHiltExample/tree/main/RetrofitHiltExample) 
 
 
  

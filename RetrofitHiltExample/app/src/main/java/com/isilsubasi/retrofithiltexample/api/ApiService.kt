@@ -12,6 +12,6 @@ interface ApiService {
     fun getPopularMoviesList(@Query("page") page : Int) : Call<MoviesListResponse>
 
     @GET("movie/{movie_id}")
-    fun getMovieDetails(@Path("movieId") movieId : Int) : Call<MovieDetailsResponse>
+    fun getMovieDetails(@Path("movie_id") movieId : Int) : Call<MovieDetailsResponse>
 
 }

@@ -51,8 +51,24 @@ class MoviesAdapter @Inject constructor() : RecyclerView.Adapter<MoviesAdapter.V
                     scale(Scale.FILL)
                 }
 
+                root.setOnClickListener {
+                    onItemClickListener?.let {
+                        it(item)
+                    }
+                }
+
             }
         }
+
+    }
+
+    /*
+    MoviesListResponse.Result türünde bir parametre alan ve herhangi bir
+     değer döndürmeyen bir lambda fonksiyonu
+     */
+    private var onItemClickListener : ((MoviesListResponse.Result) -> Unit)? = null
+    fun setOnItemClickListener(listener : (MoviesListResponse.Result) -> Unit){
+        onItemClickListener=listener
 
     }
 
